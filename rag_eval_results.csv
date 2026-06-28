@@ -1,0 +1,16 @@
+id,question,type,answer,strategy_used,relevance,groundedness
+1,What do people say about the environmental impact of fast fashion?,semantic,ERROR: name 'rag_agent' is not defined,error,5,5
+2,How do commenters feel about workers in fast fashion factories?,semantic,ERROR: name 'rag_agent' is not defined,error,5,5
+3,What concerns do people have about buying cheap clothing?,semantic,ERROR: name 'rag_agent' is not defined,error,4,5
+4,How do people justify continuing to buy from fast fashion brands?,semantic,ERROR: name 'rag_agent' is not defined,error,4,4
+5,What do people think about the quality of Shein products?,semantic,ERROR: name 'rag_agent' is not defined,error,5,5
+6,Temu,lexical,ERROR: name 'rag_agent' is not defined,error,4,4
+7,Shein haul,lexical,ERROR: name 'rag_agent' is not defined,error,5,5
+8,H&M sustainability,lexical,ERROR: name 'rag_agent' is not defined,error,3,4
+9,Zara fast fashion,lexical,ERROR: name 'rag_agent' is not defined,error,4,4
+10,Bangladesh factory workers,lexical,ERROR: name 'rag_agent' is not defined,error,5,5
+11,Summarize the main concerns people have about fast fashion,hybrid,ERROR: name 'rag_agent' is not defined,error,5,5
+12,What are the most common positive things people say about Shein?,hybrid,ERROR: name 'rag_agent' is not defined,error,4,4
+13,Summarize what negative commenters say about environmental damage,hybrid,ERROR: name 'rag_agent' is not defined,error,5,5
+14,What do people say about alternatives to fast fashion?,hybrid,ERROR: name 'rag_agent' is not defined,error,3,4
+15,How has the conversation about fast fashion changed over time?,hybrid,ERROR: name 'rag_agent' is not defined,error,2,3
