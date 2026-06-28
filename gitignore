@@ -1,0 +1,11 @@
+# Never commit these to GitHub
+.streamlit/secrets.toml
+*.db
+mlruns/
+mlflow.db
+chroma_db/
+*.pkl
+__pycache__/
+.env
+*.pyc
+.DS_Store
